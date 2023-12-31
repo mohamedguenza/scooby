@@ -60,7 +60,7 @@ button {
   border: none;
   padding: 5px 15px;
   border-radius: 5px;
-  margin: 1px;
+  margin: 8px 1px;
   cursor: pointer;
   transition: 0.1s linear;
   color: inherit;
